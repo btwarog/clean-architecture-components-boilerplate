@@ -1,8 +1,8 @@
 package org.buffer.android.boilerplate.ui.injection.module
 
 import android.app.Application
-import android.arch.lifecycle.ViewModelProvider
-import android.arch.persistence.room.Room
+import androidx.lifecycle.ViewModelProvider
+import androidx.room.Room
 import android.content.Context
 import dagger.Binds
 import dagger.Module
